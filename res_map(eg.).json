@@ -1,0 +1,15 @@
+{
+  "global": {},
+  "sceneBg": {},
+  "bgm": {},
+  "speakerToChar": {
+    "姚利群":"img/yaoliqun.png",
+    "派蒙":"img/paimon.png",
+    "旅行者":"img/traveler.png"
+  },
+  "indexVoice":{
+    "0":"audio/v0.mp3",
+    "1":"audio/v1.mp3",
+    "2":"audio/v2.mp3"
+  }
+}
