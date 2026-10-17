@@ -1,4 +1,3 @@
-[免责声明.txt](https://github.com/user-attachments/files/33298467/default.txt)
 星纹叙事台
  
 Stellar‑Weave Stage
@@ -17,13 +16,13 @@ This project "Stellar‑Weave Stage" is coded, scripted and tested by Qiaoqiu072
 📌项目目的与开源说明｜Purpose & Open‑Source Statement｜プロジェクトの目的とオープンソースについて
  
 中文：
-本项目仅用于个人娱乐、前端技术学习与非盈利同人表达。项目完全非商业化：无付费内容、无内置广告、不设置打赏通道，原则上不会进行任何商业化运营。源代码以指定开源协议发布（请参考仓库内LICENSE）；任何人fork、二次分发必须遵守该协议，不允许将本项目用于商用、付费解锁、捆绑盈利服务。请注意：开源不等于授权使用第三方IP，本项目本身的开源仅针对我编写的代码，不延伸于剧情里引用的外部世界观与专有名词。
+本项目仅用于个人娱乐、前端技术学习与非盈利同人表达。项目完全非商业化：无付费内容、无内置广告、不设置打赏通道，原则上不会进行任何商业化运营。任何人fork、二次分发必须遵守该协议，不允许将本项目用于商用、付费解锁、捆绑盈利服务。请注意：开源不等于授权使用第三方IP，本项目本身的开源仅针对我编写的代码，不延伸于剧情里引用的外部世界观与专有名词。
  
 English:
-This project is for personal entertainment, frontend development learning and non‑profit fan expression only. It is completely non‑commercial: no paid content, no built‑in ads, no donation links, and we have no intention of monetizing it. Source code is released under a designated open‑source license (see LICENSE in the repository). Forking and redistribution must comply with this license. Commercial use, paywalled content or bundling for profit is prohibited. Please note: Open‑source status applies only to code written by the author. It does NOT grant any rights over external world‑building elements or proper nouns referenced within stories.
+This project is for personal entertainment, frontend development learning and non‑profit fan expression only. It is completely non‑commercial: no paid content, no built‑in ads, no donation links, and we have no intention of monetizing it.  Forking and redistribution must comply with this license. Commercial use, paywalled content or bundling for profit is prohibited. Please note: Open‑source status applies only to code written by the author. It does NOT grant any rights over external world‑building elements or proper nouns referenced within stories.
  
 日本語：
-本プロジェクトは個人の娯楽・フロントエンド技術学習・非営利のファン表現を目的としています。完全に非営利であり、課金コンテンツ・内蔵広告・投げ銭機能はなく、原則として収益化を行う予定はありません。ソースコードは指定のオープンソースライセンスで公開されています（リポジトリ内のLICENSEを参照）。Fork・再配布はライセンスに従ってください。営利利用・有料コンテンツ化・利益目的でのバンドルは禁止されています。ご注意：オープンソースなのは作者が作成したコードのみであり、ストーリー内で参照されている外部の世界観・専門用語に対する権利を付与するものではありません。
+本プロジェクトは個人の娯楽・フロントエンド技術学習・非営利のファン表現を目的としています。完全に非営利であり、課金コンテンツ・内蔵広告・投げ銭機能はなく、原則として収益化を行う予定はありません。Fork・再配布はライセンスに従ってください。営利利用・有料コンテンツ化・利益目的でのバンドルは禁止されています。ご注意：オープンソースなのは作者が作成したコードのみであり、ストーリー内で参照されている外部の世界観・専門用語に対する権利を付与するものではありません。
  
 ©版权与引用说明｜Copyright & Reference Notice｜著作権と参照について
  
